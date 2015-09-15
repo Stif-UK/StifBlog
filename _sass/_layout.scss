@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 36px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -21,6 +21,11 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+.test{
+  font-size: 20px;
+  color: $grey-color-dark;
 }
 
 .site-nav {
@@ -106,6 +111,9 @@
     list-style: none;
     margin-left: 0;
 }
+.social-media-list li{
+  display: inline;
+}
 
 .footer-col-wrapper {
     font-size: 15px;
@@ -121,13 +129,13 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
