@@ -245,7 +245,8 @@
 }
 
 /**
-*To be deleted
+*Sidebar styling - hides on small viewports.
+*to be updated to prevent loading on small screens.
 */
 .sidebar {
     float: right;
@@ -253,4 +254,24 @@
   @include media-query($on-palm) {
         display: none;
   }
+}
+
+/**
+*Styling for individual impages
+*/
+.image_left_small{
+  float:left;
+  width:30%;
+  padding: 10px;
+  padding-bottom: 5px;
+  padding-left: 0px;
+
+  @include media-query($on-palm) {
+    float:none;
+    position:relative;
+    left:8%;
+    width: 75%;
+    padding:10px;
+  }
+
 }
