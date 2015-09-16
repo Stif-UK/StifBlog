@@ -3,9 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+Husband, father, IT professional, geek.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+- - -
+<sub>
+**Thanks:**
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<sub>
+This site has been built using Jekyll: [jekyllrb.com](http://jekyllrb.com/)<br>
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)<br>
+Various icons used throughtout the site come from Font Awesome by Dave Gandy - [http://fontawesome.io](http://fontawesome.io)<br>
