@@ -69,4 +69,9 @@ It also certainly shouldn’t be played without first having a good read of the 
 
 Overall though, since buying the game 3-4 years ago this remains one of my favourite board games.
 
+<p class="verdict">
+Verdict: 9/10
+</p>
+
+
 [bg.com]: www.boardgaming.com
