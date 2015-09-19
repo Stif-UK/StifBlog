@@ -2,7 +2,7 @@
 layout: post
 title:  "Sentinels of the Multiverse review"
 date:   2015-09-17 21:30:00
-categories: tabletop, review
+categories: tabletop
 ---
 
 *Sentinels, ASSEMBLE*

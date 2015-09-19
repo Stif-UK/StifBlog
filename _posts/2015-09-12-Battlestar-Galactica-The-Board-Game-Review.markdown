@@ -2,11 +2,11 @@
 layout: post
 title:  "Battlestar Galactica: The Board Game review"
 date:   2015-09-11 22:00:00
-categories: tabletop, review
+categories: tabletop
 ---
 To kick off the blog I thought I'd start by reposting some old reviews which I originally posted on [Boardgaming.com][bg.com]. I'm far from a good (or particularly interesting) writer, but these should fill a bit of white space until I get some coding projects up.
 
-First up, the first board game review I ever wrote, for Battlestar Galactica the board game (now with added pictures!)
+First up, the first board game review I ever wrote, for Battlestar Galactica the board game (pictures coming soon!)
 
 *Humanity has lost*
 ----------

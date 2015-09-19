@@ -1,12 +1,10 @@
 # Site settings
 title: granthutchison.com
-email: grant.jh.hutchison@gmail.com
+email: grant@granthutchison.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  <strong>Grant Hutchison</strong> is a professional software tester, and has over a decades experience working in the UK financial services industry. Outside of work he enjoys studying with the Open University, playing board games and tinkering with code.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.granthutchison.com" # the base hostname & protocol for your site
 twitter_username: Stif_br0
 google_plus_username: +GrantHutchison
 github_username:  Stif-UK
