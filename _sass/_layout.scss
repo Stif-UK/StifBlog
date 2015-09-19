@@ -28,6 +28,8 @@
   font-size: 20px;
   color: $grey-color-dark;
   font-style: italic;
+  padding-top:15px;
+  padding-bottom:20px;
 }
 
 .site-nav {
@@ -264,7 +266,7 @@
   float:left;
   width:30%;
   padding: 10px;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   padding-left: 0px;
 
   @include media-query($on-palm) {
@@ -275,4 +277,25 @@
     padding:10px;
   }
 
+}
+
+.image_right_small{
+  float:right;
+  width:30%;
+  padding: 10px;
+  padding-bottom: 10px;
+  padding-right: 0px;
+
+  @include media-query($on-palm) {
+    float:none;
+    position:relative;
+    left:8%;
+    width: 75%;
+    padding:10px;
+  }
+}
+
+.home{
+  padding-bottom:30px;
+  font-size:$large-font-size;
 }

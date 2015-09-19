@@ -3,10 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Husband, father, student, IT professional, geek.**
-
-These titles all fit.
-
+**IT professional, student, family man, geek.**
 
 <img class ="image_left_small" src="/assets/images/profile/Awesome_Stif.jpg">
 
@@ -16,9 +13,16 @@ During the day I'm a professional software tester, leading a team currently spec
 
 
 <br>
-When I get home I love nothing more than to spend time with my wonderful son Caleb.
+By night I'm a diligent student, studying towards a bachelors degree in software development with the [Open University](www.open.ac.uk).
+
+When I do find myself with some spare time to hang out with friends, I enjoy sitting down around a table to play some board games.
+
+<img class ="image_right_small" src="/assets/images/profile/big_anchor.jpg">
 
 
+As I get closer to the completion of my degree I thought it would be nice to have my own little corner of the internet where I could post little coding projects I was playing with - I have a couple of simple web apps in mind that I keep saying I'll make, but had nowhere to put...until now.
+
+---
 <sub>
 **Thanks:**
 

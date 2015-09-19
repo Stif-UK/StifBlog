@@ -207,7 +207,9 @@ pre {
   display: inline-block;
   vertical-align: middle;
   color: $grey-color;
-
+    &:hover {
+        color: $orange-color;
+    }
 }
 
 .fa-o {
