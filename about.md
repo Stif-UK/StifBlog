@@ -30,7 +30,7 @@ As I get closer to the completion of my degree I thought it would be nice to hav
 This site has been built using Jekyll: [jekyllrb.com](http://jekyllrb.com/)<br>
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)<br>
 Various icons used throughtout the site come from Font Awesome by Dave Gandy - [http://fontawesome.io](http://fontawesome.io)<br>
-This site was also created entirely in the cloud, using the fantastic [Nitrous.io](www.nitrous.io)
+This site was also created entirely in the cloud, using the fantastic [Nitrous.io](https://www.nitrous.io)
 
 ---
 
