@@ -168,6 +168,25 @@ pre {
 .fb-share-button {
   padding-bottom: 8px; }
 
+h3.accordion {
+  margin: 0;
+  font-size: 28px; }
+
+.accordion a {
+  padding: 5px;
+  padding-left: 20px;
+  background: #e8e8e8;
+  border-color: #FF6600;
+  color: #111;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 1px; }
+
+.accordion-content {
+  border: 1px solid #FF6600;
+  padding: 10px;
+  margin: 1px 0; }
+
 /**
  * Site header
  */

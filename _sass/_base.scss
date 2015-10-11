@@ -238,3 +238,24 @@ pre {
 .fb-share-button{
   padding-bottom: 8px;
 }
+
+//Styling for Experiment accordion layout
+h3.accordion{
+    margin: 0;
+    font-size: $large-font-size;
+}
+.accordion a{
+    padding: 5px;
+    padding-left: 20px;
+    background: $grey-color-light;
+    border-color: $orange-color;
+    color: $text-color;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 1px;
+}
+.accordion-content{
+    border: 1px solid $orange-color;//#ddd;
+    padding: 10px;
+    margin: 1px 0;
+}
