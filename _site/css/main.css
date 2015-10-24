@@ -409,6 +409,9 @@ h3.accordion {
   padding-bottom: 30px;
   font-size: 28px; }
 
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important; }
+
 /**
  * Syntax highlighting styles
  */
