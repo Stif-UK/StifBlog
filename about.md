@@ -9,18 +9,19 @@ permalink: /about/
 
 
 <br>
-During the day I'm a professional software tester, leading a team currently specialising in correspondant banking software. I love my job. I get to spend all day working with broken software until it finally works, only to move on to the next project which inevitably involves more broken software...
+During the day I'm a professional software tester, currently leading a team working on a mobile banking app project. I love my job. I get to spend all day working with broken software until it finally works, only to move on to the next project which inevitably involves more broken software... (although I joke about it, I genuinely do like what I do, and at the risk of sounding big headed, I'm pretty good at it!)
 
 
 <br>
-By night I'm a diligent student, studying towards a bachelors degree in software development with the [Open University](www.open.ac.uk).
+By night I'm a diligent student, studying towards a bachelors degree in software development with the [Open University](http://www.open.ac.uk). In between work and study, I spend the majority of the rest of my time with my family, getting beaten to a pulp by toy Ninja Turtles (8 year old me would be jealous of my sons toy collection!)
 
-When I do find myself with some spare time to hang out with friends, I enjoy sitting down around a table to play some board games.
+When I do find myself with some spare time to hang out with friends, I enjoy sitting down around a table to play some tabletop games, or a good old match of Street Fighter (or whatever the latest 2D fighter is).
 
 <img class ="image_right_small" src="/assets/images/profile/big_anchor.jpg">
 
 
 As I get closer to the completion of my degree I thought it would be nice to have my own little corner of the internet where I could post little coding projects I was playing with - I have a couple of simple web apps in mind that I keep saying I'll make, but had nowhere to put...until now.
+If I can find the time (ha!) I might even try to write a little about board games, technology or how to maintain full human functionality on only 2 hours of sleep a night...
 
 ---
 <sub>
