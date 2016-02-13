@@ -1,18 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" ng-app>
 
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Experiments</title>
-  <meta name="description" content="<strong>Grant Hutchison</strong> is a professional software tester, and has over a decades experience working in the UK financial services industry. Outside of work he enjoys studying with the Open University, playing board games and tinkering with code.
-">
+  <title>Harvard Reference Generator</title>
+  <meta name="description" content="  THIS IS A TEST                      Section 1        Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using         ...">
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <link rel="canonical" href="http://www.granthutchison.com/experiments/">
+  <link rel="canonical" href="http://www.granthutchison.com/experiments/2015/10/11/Harvard-Reference-Tool.html">
   <link rel="alternate" type="application/rss+xml" title="granthutchison.com" href="http://www.granthutchison.com/feed.xml" />
   <link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
   <script src="/assets/Javascript/angular.min.js"></script>
@@ -82,17 +81,71 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Experiments</h1>
+    <h1 class="post-title">Harvard Reference Generator</h1>
+    <p class="post-meta">Oct 11, 2015</p>
   </header>
 
   <article class="post-content">
-    <p>This page contains links to little coding projects that I’ve put together. You can find all source code on <a href="https://github.com/Stif-UK">github <i class="fa fa-github"></i></a></p>
+    <div class="test">
+  <p>THIS IS A TEST</p>
 
-<p>…</p>
+    <!--ng-cloak used to hide this section of the page prior to the AngularJS script being loaded by the browser-->
+<div class="cloaked" ng-cloak="">
+    <!--Accordian layout Angular code copied and modified from http://www.shanidkv.com/blog/angularjs-accordion -->
 
-<p>OK, you got me…there’s nothing here yet, but I’m working on it!</p>
+    <div ng-init="accordion=0">
+    <h3 class="accordion" ng-class="{active:accordion==1}">
+      <a href="" ng-click="accordion = 1">Section 1</a>
+    </h3>
+    <p class="accordion-content" ng-show="accordion==1">Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using</p>
+
+    <h3 class="accordion" ng-class="{active:accordion==2}">
+      <a href="" ng-click="accordion = 2">Section 2</a>
+    </h3>
+    <p class="accordion-content" ng-show="accordion==2">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using</p>
+
+    <h3 class="accordion" ng-class="{active:accordion==3}">
+      <a href="" ng-click="accordion = 3">Section 3</a>
+    </h3>
+    <p class="accordion-content" ng-show="accordion==3">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
+
+    <h3 class="accordion" ng-class="{active:accordion==4}">
+      <a href="" ng-click="accordion = 4">Section 4</a>
+    </h3>
+    <p class="accordion-content" ng-show="accordion==4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
+
+  </div> <!--Close accordions div-->
+</div> <!--Close cloaked div-->
+
+
+</div>
 
   </article>
+
+      
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Your share button code -->
+<div class="fb-share-button" data-href="http://www.granthutchison.com/experiments/2015/10/11/Harvard-Reference-Tool.html" data-layout="button_count"></div>
+
+<div class ="social_button">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="Stif_br0">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+
+<div class ="social_button">
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<g:plus action="share"></g:plus>
+</div>
+
 
 </div>
 
